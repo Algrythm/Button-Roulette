@@ -50,14 +50,9 @@ AI is now able to play cards.
 General bug fixes.
 
 
-
-
+# Misc Info
 
 
 Assets by Nash
-
-
-
-
 
 *Playable on browser on Newgrounds.
