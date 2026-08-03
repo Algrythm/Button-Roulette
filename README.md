@@ -42,12 +42,9 @@ Press area on the bottom right of the table to access cards. Cards can only be p
 
 
 
-# V0.5 LOG
+# V0.6 LOG
 
-AI is now able to play cards.
-
-
-General bug fixes.
+AI Bug Fixes
 
 
 # Misc Info
